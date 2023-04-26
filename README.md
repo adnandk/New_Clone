@@ -1,4 +1,4 @@
-https://github.com/adnandk/New_Clone
+git clone https://github.com/adnandk/New_Clone
 
 cd New_Clone
 
